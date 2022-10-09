@@ -3960,7 +3960,22 @@
        "genre": ["Heart Broke","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
     },
-    
+    {
+          "id": 299,
+          "name": "Pani Da Rang",
+          "lyrics": "https://www.lyricsmint.com/vicky-donor/pani-da-rang",
+          "album": "Vicky Donor",
+          "Duration": "4 min 05 sec",
+          "singer": [
+             "Ayushmann Khurrana"
+          ],
+          "genre": [
+             "Romantic",
+             "Pop",
+             "Punjabi"
+          ],
+          "link": "https://youtu.be/2kgEc6oH9J0"
+       },
     ]
     
     
