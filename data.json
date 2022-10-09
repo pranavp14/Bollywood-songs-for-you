@@ -3960,7 +3960,20 @@
        "genre": ["Heart Broke","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
     },
-    
+        {
+          "id": 301,
+          "name": "Buri Nazarwale",
+          "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
+          "album": "Tamannaah.",
+          "Duration": "5 min 35 sec",
+          "singer": [
+             "Shabbir Kumar"
+          ],
+          "genre": [
+             "Indian Film Pop"
+          ],
+          "link": "https://youtu.be/dJb43obDZCM"
+       },
     ]
     
     
